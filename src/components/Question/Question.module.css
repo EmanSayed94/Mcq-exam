@@ -1,0 +1,12 @@
+.container{
+    width: 100%;
+}
+.choice{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    margin: 8px 2px;
+}
+.container h3{
+    text-align: center;
+}
